@@ -1,6 +1,6 @@
-## Olá👋! Meu nome é Victor e sou acadêmico de Analise e Desenvolvimento de Sistemas.
-- 🌱 Estudando Typescript,Java e Python
-- 📤 Contate-me no email: joaovictorpazpastana2@gmail.com
+## Hello👋! My name is Victor and I am a Systems Analysis and Development academic.
+- 🌱 Studying Typescript, Java, Python and Web Language
+- 📤 Contact me at email: joaovictorpazpastana2@gmail.com
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
