@@ -32,8 +32,8 @@
   
 <h1 align="center"> Current GitHub Stats 📊 </h1>
 <div style="display:inline-block; align-items:center;">
-<a href="https://github.com/helloisasilva?tab=repositories"><img height=180px src="https://github-readme-stats.vercel.app/api?username=helloisasilva&show_icons=true&count_private=true,prs&theme=radical"></a>
-<a href="https://github.com/helloisasilva"><img height=180px src="https://github-readme-stats.vercel.app/api/top-langs/?username=helloisasilva&layout=compact&theme=radical"></a>
-<p ><img align="rigth" src="http://github-readme-streak-stats.herokuapp.com?user=helloisasilva&theme=radical&date_format=j%20M%5B%20Y%5D">
+<a href="https://github.com/Victorpaz07?tab=repositories"><img height=180px src="https://github-readme-stats.vercel.app/api?username=Victorpaz07&show_icons=true&count_private=true,prs&theme=radical"></a>
+<a href="https://github.com/Victorpaz07"><img height=180px src="https://github-readme-stats.vercel.app/api/top-langs/?username=helloisasilva&layout=compact&theme=radical"></a>
+
   
 </div> 
